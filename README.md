@@ -18,6 +18,18 @@ The archive is the source of truth. Values not present in a Rainbow header are r
 
 ![Severe Convective Radar Intelligence medallion architecture](docs/assets/severe-convective-radar-intelligence-architecture.png)
 
+### Operational dashboard
+
+The archived replay presents the real 2 km DBZH CAPPI over the supplied Santa Catarina boundaries, detected cell footprints, recent cell tracks, and scan-specific threshold bands.
+
+![Radar replay showing high-reflectivity cell footprints and tracked cells](docs/assets/Platform.png)
+
+*Cell footprints and tracks during an active high-reflectivity scan.*
+
+![Radar replay showing evolving convective cells and dynamic thresholds](docs/assets/Platform2.png)
+
+*A later replay frame showing the evolving cell field and dynamic intensity bands.*
+
 The first executable stage is the metadata inventory:
 
 ```powershell
