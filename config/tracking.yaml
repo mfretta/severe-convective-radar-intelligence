@@ -1,0 +1,4 @@
+tracking:
+  maximum_speed_kmh: 150.0
+  max_intensity_difference_dbz: 25.0
+  method: "hungarian_distance_intensity"

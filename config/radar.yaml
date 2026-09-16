@@ -1,0 +1,12 @@
+radar:
+  source_root: "2026-08-30"
+  site_metadata_policy: "read_from_rainbow_header"
+  effective_earth_radius_factor: 1.3333333333333333
+  missing_metadata_policy: "record_missing_do_not_infer"
+bronze:
+  root: "data/bronze/radar"
+  immutable: true
+silver:
+  root: "data/silver/radar"
+  decoder: "xradar"
+  preserve_raw_velocity: true

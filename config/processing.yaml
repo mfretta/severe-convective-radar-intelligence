@@ -1,0 +1,4 @@
+storm_segmentation:
+  dbzh_threshold: 40.0
+  minimum_area_km2: 16.0
+  label: "configurable reflectivity-based candidate cell"

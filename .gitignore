@@ -1,0 +1,29 @@
+# Local source archives and user-provided geospatial data
+2026-08-30/
+shape/
+*.vol
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Reproducible derived radar products and local runtime outputs
+data/bronze/
+data/silver/
+data/gold/
+data/serving/
+data/quality/runtime/
+data/quality/*.log
+*.zarr/
+
+# Local development artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+.env
+.env.*

@@ -1,0 +1,8 @@
+# All future thresholds are configurable heuristics, not certified warning rules.
+hazards:
+  labels:
+    heavy_rain: "heavy-rain potential"
+    hail: "hail potential"
+    rotation: "rotation candidate"
+  require_explainability: true
+  official_warning_disclaimer: true
