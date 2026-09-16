@@ -8,9 +8,10 @@ with tarfile.open(fileobj=io.BytesIO(raw)) as source, tarfile.open(output,'w') a
     for member in source.getmembers():
         if not member.isfile():
             continue
+        payload=source.extractfile(member)
         if member.name.startswith('site/'):
             member.name='dist/'+member.name[5:]
-        target.addfile(member,source.extractfile(source.getmember(member.name.replace('dist/','site/',1)) if member.name.startswith('dist/') else member))
+        target.addfile(member,payload)
 with tarfile.open(output) as check:
     assert 'dist/index.html' in check.getnames()
     assert '.openai/hosting.json' in check.getnames()
