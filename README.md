@@ -16,15 +16,7 @@ The archive is the source of truth. Values not present in a Rainbow header are r
 
 ### Architecture
 
-```mermaid
-flowchart LR
-  R[Native Rainbow .vol] --> B[Bronze: immutable manifest]
-  B --> S[Silver: decoded radar cubes and QC]
-  S --> P[CAPPI and geometry]
-  P --> G[Gold: cells, tracks, hazards, warnings]
-  G --> A[FastAPI and archived replay]
-  A --> U[React + Mapbox + Three.js operations view]
-```
+![Severe Convective Radar Intelligence medallion architecture](docs/assets/severe-convective-radar-intelligence-architecture.png)
 
 The first executable stage is the metadata inventory:
 
