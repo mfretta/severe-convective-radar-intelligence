@@ -20,6 +20,16 @@ The archive is the source of truth. Values not present in a Rainbow header are r
 
 ### Operational dashboard
 
+### Radar replay video
+
+[![Watch the 21:00–23:54 UTC radar replay](docs/video/replay-preview.png)](https://github.com/mfretta/severe-convective-radar-intelligence/raw/refs/heads/main/docs/video/Radar_Replay_2100-2354_UTC.mp4)
+
+[Download MP4](docs/video/Radar_Replay_2100-2354_UTC.mp4) · [Watch on the project site](https://severe-convective-radar-intelligence.murilofretta.chatgpt.site/#replay) · [Download PowerPoint with embedded video](docs/presentation/Severe_Convective_Radar_Intelligence.pptx)
+
+1080p replay at 1.5× playback speed, approximately 35 seconds. Includes 25 available scans from 21:00 to 23:54 UTC on 30 August 2026, with real 2 km CAPPI, cell footprints, recent tracks and scan-specific threshold colours. Observation timestamps retain gaps in the archive. The Sites showcase currently requires owner access.
+
+### Dashboard screenshots
+
 The archived replay presents the real 2 km DBZH CAPPI over the supplied Santa Catarina boundaries, detected cell footprints, recent cell tracks, and scan-specific threshold bands.
 
 ![Radar replay showing high-reflectivity cell footprints and tracked cells](docs/assets/Platform.png)

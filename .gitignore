@@ -17,6 +17,11 @@ data/quality/*.log
 *.zarr/
 
 # Local development artifacts
+.presentation-tools/
+.video-tools/
+docs/video/frames/
+docs/presentation/sites-deploy.tar
+.presentation-tools-js/
 __pycache__/
 *.py[cod]
 .pytest_cache/

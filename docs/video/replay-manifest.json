@@ -1,0 +1,177 @@
+[
+  {
+    "frame": 0,
+    "timestamp": "2026083021000300",
+    "cells": 3,
+    "tracks": 3,
+    "sha256": "91d66e3b5c3f56f976c2f74eb9a6730adb5fa6c64a1bad44de4d11d7615f06cd"
+  },
+  {
+    "frame": 1,
+    "timestamp": "2026083021120300",
+    "cells": 5,
+    "tracks": 3,
+    "sha256": "e2e7d38260fe38dd9273f1ac79d6a717ec643f997a1161c3c3232f04e3042f95"
+  },
+  {
+    "frame": 2,
+    "timestamp": "2026083021180300",
+    "cells": 6,
+    "tracks": 2,
+    "sha256": "b04a97920497126f3f6930b35f64d2aacf28b36ffd2c1782fdba6829ff46b45c"
+  },
+  {
+    "frame": 3,
+    "timestamp": "2026083021240400",
+    "cells": 4,
+    "tracks": 4,
+    "sha256": "7d74abe63b01a82cf0a9580d4508fd209434edc20dc21372a49963a07eb7a782"
+  },
+  {
+    "frame": 4,
+    "timestamp": "2026083021300300",
+    "cells": 4,
+    "tracks": 2,
+    "sha256": "17ba11e9408bf42662b45a6c30523f15ea0f46c9ba37bd1404bdf8987967f073"
+  },
+  {
+    "frame": 5,
+    "timestamp": "2026083021480300",
+    "cells": 6,
+    "tracks": 4,
+    "sha256": "1c3186625f90eb3aebc483c4dae7ff92b4d84a78303d335e7a0466d98765c555"
+  },
+  {
+    "frame": 6,
+    "timestamp": "2026083021540400",
+    "cells": 6,
+    "tracks": 4,
+    "sha256": "6299fef758bbb3aeaf79b692166c26844f243c83ad19bd1da029652641f66137"
+  },
+  {
+    "frame": 7,
+    "timestamp": "2026083022000400",
+    "cells": 7,
+    "tracks": 5,
+    "sha256": "dd9a4d862157d2b7379f05711091f9210bcc23e90149ecae99482b3f97f869d8"
+  },
+  {
+    "frame": 8,
+    "timestamp": "2026083022060300",
+    "cells": 9,
+    "tracks": 7,
+    "sha256": "73a7376fffe3861c6a3d00430f0b097b6a400ae05a9344d3f3662cfd8c3b009c"
+  },
+  {
+    "frame": 9,
+    "timestamp": "2026083022120400",
+    "cells": 11,
+    "tracks": 9,
+    "sha256": "7391c5c269dc664cff6c03ec4635b2af106e0b6b14354069de12bb77871acad0"
+  },
+  {
+    "frame": 10,
+    "timestamp": "2026083022180300",
+    "cells": 10,
+    "tracks": 8,
+    "sha256": "392164c99089ff39dd49fb355094d8d7ab08b59dd7a30f3a4aa38042f8880995"
+  },
+  {
+    "frame": 11,
+    "timestamp": "2026083022240400",
+    "cells": 12,
+    "tracks": 8,
+    "sha256": "c9d705366c1ee21416f3b7a85bbe7fc81284facb5fda0476f4d7add7b0a5a959"
+  },
+  {
+    "frame": 12,
+    "timestamp": "2026083022300300",
+    "cells": 10,
+    "tracks": 8,
+    "sha256": "81451aa45f67a2a180b9d71b9850ad3d4eb5542d7f565acf1da25b0db78b34c6"
+  },
+  {
+    "frame": 13,
+    "timestamp": "2026083022360300",
+    "cells": 11,
+    "tracks": 8,
+    "sha256": "48765c6fbdc67e6d6518bee23a4043aa6c55179aa5f68f42e94417a5dc286969"
+  },
+  {
+    "frame": 14,
+    "timestamp": "2026083022480300",
+    "cells": 12,
+    "tracks": 8,
+    "sha256": "1bb564291a8757cb24d7601cc87ad068465c6c36326be2e081189849a8bf8f56"
+  },
+  {
+    "frame": 15,
+    "timestamp": "2026083022540300",
+    "cells": 11,
+    "tracks": 9,
+    "sha256": "271774655a44331b18387ba1bd3115c2b4f32f1c1968fd8d8bee24b93d0e13f4"
+  },
+  {
+    "frame": 16,
+    "timestamp": "2026083023000400",
+    "cells": 11,
+    "tracks": 11,
+    "sha256": "cb43a10fcc019f3105ad6e21412f5d2e3fc51fdc8561ea78cb6f020254bc355d"
+  },
+  {
+    "frame": 17,
+    "timestamp": "2026083023060400",
+    "cells": 17,
+    "tracks": 11,
+    "sha256": "802def55bd880e4805c92ede1e359c5f3c5891b028eb78afd197058d528e40cf"
+  },
+  {
+    "frame": 18,
+    "timestamp": "2026083023120400",
+    "cells": 17,
+    "tracks": 12,
+    "sha256": "8ab3a40b1207076003354d2305ef7b7395c068188fd9d3d8d0aacfead9e4121f"
+  },
+  {
+    "frame": 19,
+    "timestamp": "2026083023180400",
+    "cells": 14,
+    "tracks": 13,
+    "sha256": "712b35dc37c3b9198b9a05b39572ebaf5022eaeb1d2f25734d9912dc383e8554"
+  },
+  {
+    "frame": 20,
+    "timestamp": "2026083023240400",
+    "cells": 15,
+    "tracks": 14,
+    "sha256": "889870e7470937f180030944147fd6bbb0892717f16173f50402171188018d65"
+  },
+  {
+    "frame": 21,
+    "timestamp": "2026083023360400",
+    "cells": 13,
+    "tracks": 12,
+    "sha256": "506fc67642c6a7bc8af0c4bd4e306c86c29873e1782672cb15b04b90f92e96f8"
+  },
+  {
+    "frame": 22,
+    "timestamp": "2026083023420400",
+    "cells": 14,
+    "tracks": 11,
+    "sha256": "9cb1ee8b3912236068b89a368838a17d48f1dadb63a111e76020da4fd6c17b43"
+  },
+  {
+    "frame": 23,
+    "timestamp": "2026083023480400",
+    "cells": 16,
+    "tracks": 11,
+    "sha256": "0d2ae413cc5c06eb2593dddc23509dea1536a3c89caa89c7f6024237f69bc275"
+  },
+  {
+    "frame": 24,
+    "timestamp": "2026083023540400",
+    "cells": 18,
+    "tracks": 12,
+    "sha256": "1ff50ab20e13b7c6416a376d241eae529dc7f92f750505a6d87d57f612e25d41"
+  }
+]
